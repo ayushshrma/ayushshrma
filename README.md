@@ -12,7 +12,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Guru
 
 [![](https://gitwar.herokuapp.com/badge?username=ayushshrma&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ayushshrma/ayushshrma/master/gifs/web dev.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/ayushshrma/ayushshrma/master/gifs/dev.gif" />
 
 ### Talking about Personal Stuffs:
 
