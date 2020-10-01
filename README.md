@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ayushshrma.ayushshrma&style=flat-square&color=0088cc)
 
-I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from Guru Gobind Singh Indraprastha University 🏛. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Third year student pursuing Bachelors's in Computer Science & Engineering 🎓 from Guru Gobind Singh Indraprastha University 🏛. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 [![](https://gitwar.herokuapp.com/badge?username=ayushshrma&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
