@@ -23,7 +23,7 @@ I'm a Third year student pursuing Bachelors's in Computer Science & Engineering 
 - 💬 &nbsp; Ask me about: REACT
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: realayush@yahoo.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/ayushshrma/ayushshrma/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://www.dropbox.com/s/qi33qmouul4gcul/Ayush_Sharma_Resume.pdf?dl=1).
 
 ### Languages and Tools:
 
