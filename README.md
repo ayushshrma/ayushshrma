@@ -2,10 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsharmaa/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ayushshrma.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/realarush__/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/realayushsharma)
 [![Xing Badge](https://img.shields.io/badge/-Xing-0088cc?style=flat-square&logo=Xing&logoColor=white)](https://www.xing.com/profile/Ayush_Sharma9/)
-[![Leetcode Badge](https://img.shields.io/badge/-leetcode-0088cc?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/realayushsharma/)
+[![Leetcode Badge](https://img.shields.io/badge/-leetcode-0088cc?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ayushshrma.ayushshrma&style=flat-square&color=0088cc)
 
