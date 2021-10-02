@@ -1,5 +1,7 @@
 ## Hey 👋, I'm [Ayush Sharma!](https://github.com/ayushshrma/)
 
+
+	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsharmaa/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ayushshrma.github.io/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/realayushsharma)
@@ -20,10 +22,15 @@ I'm a Last year student pursuing Bachelors's in Computer Science & Engineering �
 - 🛠 &nbsp; I’m currently working with Node.js, Express.js, React, <br />  Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayushshrma).
-- 💬 &nbsp; Ask me about: REACT
+- 💬 &nbsp; Ask me about: REACT, NODEJS
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: realayush@yahoo.com
+- 📫 &nbsp; How to reach me: sharmaayush20999@gmail.com 
 - 📝 &nbsp; Checkout my [Resume](https://www.dropbox.com/s/gekby1djp8n3epj/Ayush_Sharma_Resume.pdf?dl=1).
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushshrma&show_icons=true&locale=en&layout=compact" alt="ayushsharma" />
+
 
 ### Languages and Tools:
 
@@ -43,6 +50,7 @@ I'm a Last year student pursuing Bachelors's in Computer Science & Engineering �
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
+
 ### Projects and Dev Stuffs:
 
 <details>	
@@ -54,7 +62,7 @@ I'm a Last year student pursuing Bachelors's in Computer Science & Engineering �
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
+  	    <li><b>OS:</b> Windows 10 </li>
 	    <li><b>Laptop: </b> Dell Vostro (i5)</li>
   	    <li><b>Browser: </b> Firefox Developer Edition</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
