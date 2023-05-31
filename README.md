@@ -18,14 +18,14 @@ I'm a Last year student pursuing Bachelors's in Computer Science & Engineering �
 
 ### Talking about Personal Stuffs:
 
-- ❤️ &nbsp; I’m currently looking for Internship.
-- 🛠 &nbsp; I’m currently working with Node.js, Express.js, React, <br />  Javascript, etc.
+- ❤️ &nbsp; I’m currently Working as a Software Engineer .
+- 🛠 &nbsp; I’m currently working with Spirng Framework , Spring Boot, Spring MVC,Hibernate, <br />  Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayushshrma).
-- 💬 &nbsp; Ask me about: REACT, NODEJS
+- 💬 &nbsp; Ask me about: SPRING , REACT.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: sharmaayush20999@gmail.com 
-- 📝 &nbsp; Checkout my [Resume](https://www.dropbox.com/s/gekby1djp8n3epj/Ayush_Sharma_Resume.pdf?dl=1).
+- 📫 &nbsp; How to reach me: ayushsharmacse@gmail.com 
+- 📝 &nbsp; Checkout my [Resume](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 
 
 
@@ -62,10 +62,8 @@ I'm a Last year student pursuing Bachelors's in Computer Science & Engineering �
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 </li>
-	    <li><b>Laptop: </b> Dell Vostro (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	    <li><b>Code Editor:</b> VSCode</li>
+	    <li><b>Code Editor:</b> IntelliJ</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
 	    <br />
 	</ul>	
