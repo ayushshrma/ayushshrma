@@ -14,7 +14,7 @@
 ### Talking about Personal Stuffs:
 
 - ❤️ &nbsp; I’m currently Working as a Java Developer with 2 Years of Experience in Maintaining and Developing Microservices.
-- 🛠 &nbsp; I’m currently working with Spirng Framework , Spring Boot, Spring MVC,Hibernate, <br />  Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Spring Framework , Spring Boot, Spring MVC,Hibernate, <br />  Kafka,Redis etc.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayushshrma).
 - 💬 &nbsp; Ask me about: Spring Boot,Spring Framework,Kafka,Redis,Mockito,Junit,AWS.
 - 👾 &nbsp; Fun fact: Writing Java is like going to a coffee shop: you spend half the time just waiting for it to brew! ☕.
