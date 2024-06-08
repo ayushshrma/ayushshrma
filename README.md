@@ -13,11 +13,11 @@
 
 ### Talking about Personal Stuffs:
 
-- ❤️ &nbsp; I’m currently Working as a Software Engineer .
+- ❤️ &nbsp; I’m currently Working as a Java Developer with 2 Years of Experience in Maintaining and Developing Microservices.
 - 🛠 &nbsp; I’m currently working with Spirng Framework , Spring Boot, Spring MVC,Hibernate, <br />  Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayushshrma).
-- 💬 &nbsp; Ask me about: SPRING , REACT.
+- 💬 &nbsp; Ask me about: Spring Boot,Spring Framework,Kafka,Redis,Mockito,Junit,AWS.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: ayushsharmacse@gmail.com 
 - 📝 &nbsp; Checkout my [Resume]().
