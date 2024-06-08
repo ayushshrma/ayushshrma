@@ -9,16 +9,15 @@
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ayushshrma.ayushshrma&style=flat-square&color=0088cc)
 [![](https://gitwar.herokuapp.com/badge?username=ayushshrma&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="250" alt="" src="https://raw.githubusercontent.com/ayushshrma/ayushshrma/master/gifs/dev.gif" />
+<img align="right" height="250" width="250" alt="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hjajNtajFpcms2cmFodjk4YTJkZzdkempnczFndmIyYzN2ZXB1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" />
 
 ### Talking about Personal Stuffs:
 
 - ❤️ &nbsp; I’m currently Working as a Java Developer with 2 Years of Experience in Maintaining and Developing Microservices.
 - 🛠 &nbsp; I’m currently working with Spirng Framework , Spring Boot, Spring MVC,Hibernate, <br />  Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayushshrma).
 - 💬 &nbsp; Ask me about: Spring Boot,Spring Framework,Kafka,Redis,Mockito,Junit,AWS.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: Writing Java is like going to a coffee shop: you spend half the time just waiting for it to brew! ☕.
 - 📫 &nbsp; How to reach me: ayushsharmacse@gmail.com 
 - 📝 &nbsp; Checkout my [Resume]().
 
